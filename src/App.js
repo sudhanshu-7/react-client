@@ -32,10 +32,10 @@ import SignUp from './components/home/SignUp';
 function App() {
   return (
     <>
-    {/* <Header />
+    <Header />
     <main>
 
-    <Search />
+    {/* <Search /> */}
     <PropertyCategories/>
     <Services />
     <TopOffers/>
@@ -46,10 +46,10 @@ function App() {
     <TopAgents />
     </main>
 
-    <Footer/> */}
+    <Footer/>
     <main class="page-wrapper">
     <SignUp />
-    <Header_AU/>
+    {/* <Header_AU/> */}
     {/* <BodyAU /> */}
     {/* <BodyCU /> */}
     {/* <PropertyList /> */}
